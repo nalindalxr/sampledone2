@@ -1,0 +1,17 @@
+{
+  "name": "apee-angular-starter",
+  "version": "1.0.0",
+  "description": "APEE Angular Starter with Node Js and Express JS",
+  "main": "server.js",
+  "author": "Nalinda Wijayagunawardhane",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "morgan": "~1.2.2",
+    "request": "^2.75.0"
+  }
+}
